@@ -8,7 +8,7 @@
 
 <Header></Header>
 
-<article class="article has-background-light  pb-6">
+<article class="article has-background-light mt-3 pb-6">
 	<section class="hero is-light has-text-centered">
 		<div class="hero-body">
 			<p class="article__date pb-4">Publicado el {data.article.date}</p>
