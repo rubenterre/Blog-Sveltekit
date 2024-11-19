@@ -1,4 +1,4 @@
-# Blog - Creación de un Blog con Sveltekit y Bulma
+# Blog - Creación de un Blog con Sveltekit y BulmaCSS
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white&labelColor=101010)
 ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
 ![BEM](https://img.shields.io/badge/BEM-000?style=for-the-badge&logo=BEM&logoColor=white)
@@ -22,12 +22,12 @@ En el video, te guiaré a través de la creación de un blog:
 - **Bulma CSS**: Uso del framework para organizar el layout.
 - **Sveltekit**: Creación del blog usando este frameworks de Javascript
 
-### 📖 Requisitos previos
+## 📖 Requisitos previos
 
 - Conocimientos básicos de HTML, CSS y JavaScript
 - Node.js instalado en tu sistema
 
-### 🕒 Timestamps
+## 🕒 Timestamps
 
 00:00 - Presentación
 00:36 - Introducción a Svelte y Sveltekit
