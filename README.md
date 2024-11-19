@@ -38,12 +38,6 @@ En el video, te guiaré a través de la creación de un blog:
 20:29 - Creación de página de artículo
 28:59 - Conclusión
 
-## 🚀 Próximos pasos
-
-En la segunda parte del tutorial, completaremos el proyecto y te mostraré cómo publicarlo en un servidor utilizando **FTP**.
-
-- **Fecha de lanzamiento de la segunda parte**: ¡Disponible el viernes!
-
 ## 📂 Repositorio
 
 Este es el repositorio del código del proyecto:
