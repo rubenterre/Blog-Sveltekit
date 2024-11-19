@@ -7,30 +7,36 @@ Este repositorio contiene el código fuente del proyecto mostrado en el video tu
 
 ## 📝 Descripción del tutorial
 
-En el video, te guiaré a través de los primeros pasos en la creación de un proyecto web:
+En el video, te guiaré a través de la creación de un blog:
 
-1. **Briefing del proyecto web**: Cómo estructurar las ideas y objetivos del proyecto.
-2. **Creación de la estructura básica**: Uso de HTML y CSS para construir el esqueleto del sitio.
-3. **Organización del layout con Bulma**: Cómo usar este framework para simplificar la disposición de los elementos.
-4. **Subida del proyecto a GitHub**: Primeros pasos para hacer visible tu trabajo en un repositorio.
+- Configuración rápida de un proyecto SvelteKit
+- Integración de Bulma CSS para un diseño responsivo y moderno
+- Creación de componentes reutilizables para tu blog
+- Implementación de rutas dinámicas para las entradas del blog
+- Estilización de tu blog con los componentes de Bulma
 
 ## 📌 Contenido del video
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
-- **Briefing**: Cómo planificar los objetivos y estructura de un sitio web.
 - **HTML y CSS**: Creación de la estructura básica.
 - **Bulma CSS**: Uso del framework para organizar el layout.
-- **GitHub**: Subida y gestión del proyecto en un repositorio.
+- **Sveltekit**: Creación del blog usando este frameworks de Javascript
+
+### 📖 Requisitos previos
+
+- Conocimientos básicos de HTML, CSS y JavaScript
+- Node.js instalado en tu sistema
 
 ### 🕒 Timestamps
 
-- 00:00 - Introducción
-- 00:48 - ¿Qué es un proyecto web?
-- 01:28 - Fases de desarrollo
-- 08:29 - Briefing del proyecto
-- 13:46 - Planificación
-- 15:38 - Prototipado
-- 17:38 - Próximos pasos y conclusión
+00:00 - Presentación
+00:36 - Introducción a Svelte y Sveltekit
+01:16 - Configuración inicial
+03:47 - Creación de página principal
+14:54 - Creación de datos de artículos del blog
+17:07 - Importación de datos al blog
+20:29 - Creación de página de artículo
+28:59 - Conclusión
 
 ## 🚀 Próximos pasos
 
@@ -41,19 +47,19 @@ En la segunda parte del tutorial, completaremos el proyecto y te mostraré cómo
 ## 📂 Repositorio
 
 Este es el repositorio del código del proyecto:
-- [Repositorio de GitHub](https://github.com/rubenterre/cyberAI)
+- [Repositorio de GitHub](https://github.com/rubenterre/Blog-Sveltekit)
 
 ## 🎥 Video del tutorial
 
-Puedes ver los videos completos en YouTube
-- Parte 1: https://www.youtube.com/](https://youtu.be/PelXB3WT_Uc
+Puedes ver el video completo en YouTube
+- https://youtu.be/8VKTzN0iwzc
 
 ## 🛠 Tecnologías utilizadas
 
 - **HTML**
 - **CSS**
 - **Bulma CSS**
-- **Git**
+- **Sveltekit**
 
 ## 🔔 Suscríbete para más contenido
 
